@@ -1,0 +1,6 @@
+{
+  "name": "Anu Tools Admin",
+  "description": "Admin app for Anu Tools with inventory management, orders, products, and bulk CSV product import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

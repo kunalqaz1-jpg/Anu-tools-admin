@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060715648395",
+    "project_id": "anu-tools-production",
+    "storage_bucket": "anu-tools-production.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060715648395:android:17939f82a4bb42ba8a0b8e",
+        "android_client_info": {
+          "package_name": "com.aistudio.anutools.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsyeQAZ_MZsGjZQ4n3Axdr3eYtB4udwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060715648395:android:2df511d3f6795e098a0b8e",
+        "android_client_info": {
+          "package_name": "com.aistudio.anutools.mprq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsyeQAZ_MZsGjZQ4n3Axdr3eYtB4udwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
